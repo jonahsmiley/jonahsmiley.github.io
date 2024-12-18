@@ -2,6 +2,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 100;
+  vertical-align: middle;
   width: 25%;
 }
