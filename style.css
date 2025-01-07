@@ -4,9 +4,12 @@
 }
 
 .cartoon {
-  flex:70%
+  flex:40%
 }
 
+.mid {
+  flex:35%
+}
 .feeds {
-  flex: 30%;
+  flex: 20%;
 }
