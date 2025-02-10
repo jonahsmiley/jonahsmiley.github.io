@@ -2,14 +2,3 @@
   display: flex;
   flex-wrap: wrap;
 }
-
-.cartoon {
-  flex:30%
-}
-
-.mid {
-  flex:29%
-}
-.feeds {
-  flex:40%;
-}
